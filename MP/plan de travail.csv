@@ -1,0 +1,15 @@
+﻿Plan de travail pour fusionner avec  HISTO Recodée;;
+LABEL;COMMENTAIRE;STATUT
+VERIF;Vérifier que le lien fonctionne dans l'historique > un lien.xlsx;A FAIRE
+DataMap;Sur l'ensemble des niveaux;OK
+Cleaning;Sur l'ensemble des niveaux;OK
+Passage à étude à niveau;Passage du fichier lien.xlsx;A FAIRE
+Fusion;"a) si erreur > renommer la variable ds le dataMap ""_NEW"" => recode ds Recode_fusion entre l'anciene et la nouvelle variable";A FAIRE
+Contrôle sur la fusion : vagues en colonne et tu parcours les variables brutes de ton étude / les autres tu les mets ds un répertoire (ancienne recode);;A FAIRE
+;b) Si Pb => recodes à faire dans Recodes_fusion;A FAIRE
+Recodes_fusion;;A FAIRE
+Passage du fichier lien.xlsx;;A FAIRE
+Recodes;Renommer les variables corrigées;OK
+Contrôle des recodes dans HARMONIE;Vérif des recodes de PL;A FAIRE
+Et plus encore;;
+Et là ?;;
